@@ -41,7 +41,7 @@
 ## 📫 Let’s Connect
 
 - 📧 Email: nd5301824@gmail.com`
-- 🌍 GitHub: [@riyabca22](https://github.com/riyabca22)
+- 🌍 GitHub: https://github.com/riyacode22/Riya-kumari.git
 - 🔗 Portfolio: [riyabca22.github.io/riya-portfolio](https://riyabca22.github.io/riya-portfolio)
 
 ---
