@@ -19,7 +19,7 @@
 
 ## 💼 Projects
 
-- 🖥️ [Personal Portfolio Website]gh repo clone riyacode22/Riya-kumari
+- 🖥️ [Personal Portfolio Website] 
   A modern and responsive personal site showcasing my skills, projects, and contact.
 
 - 🌟 Static HTML/CSS Website  
