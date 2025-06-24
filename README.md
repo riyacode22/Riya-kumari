@@ -19,7 +19,7 @@
 
 ## 💼 Projects
 
-- 🖥️ [Personal Portfolio Website](https://riyabca22.github.io/riya-portfolio)  
+- 🖥️ [Personal Portfolio Website]gh repo clone riyacode22/Riya-kumari
   A modern and responsive personal site showcasing my skills, projects, and contact.
 
 - 🌟 Static HTML/CSS Website  
@@ -42,8 +42,8 @@
 
 - 📧 Email: nd5301824@gmail.com`
 - 🌍 GitHub: https://github.com/riyacode22/Riya-kumari.git
-- 🔗 Portfolio: [riyabca22.github.io/riya-portfolio](https://riyabca22.github.io/riya-portfolio)
-
+- 🔗 Portfolio: [riyabca22.github.io/riya-portfolio] 
+gh repo clone riyacode22/Riya-kumari
 ---
 
 ## 🔥 Fun Facts
