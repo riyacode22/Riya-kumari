@@ -19,8 +19,8 @@
 
 ## 💼 Projects
 
-- 🖥️ [Personal Portfolio Website] 
-  A modern and responsive personal site showcasing my skills, projects, and contact.
+- 🖥️
+ A modern and responsive personal site showcasing my skills, projects, and contact.
 
 - 🌟 Static HTML/CSS Website  
   Simple webpage created using basic HTML and CSS to learn structure and styling.
@@ -43,8 +43,6 @@
 - 📧 Email: nd5301824@gmail.com`
 - 🌍 GitHub: https://github.com/riyacode22/Riya-kumari.git
 - 🔗 Portfolio: [riyabca22.github.io/riya-portfolio] 
-gh repo clone riyacode22/Riya-kumari
----
 
 ## 🔥 Fun Facts
 
